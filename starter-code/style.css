@@ -64,7 +64,6 @@ footer {
 	clear:both;
 	background-color: #808080;
 	display: block;
-	float: left;
 	text-align: center;
 }
 .clearfix:after {
@@ -83,7 +82,7 @@ footer {
  #left {
  	clear: left;
  	float: left;
- 	margin: 2em 2em;
+ 	margin: 2em 0em 0em 4em;
  	padding: 30px;
   }
 .social {
